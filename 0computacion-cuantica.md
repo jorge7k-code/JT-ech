@@ -3,7 +3,8 @@
 *Nota de divulgación sobre infraestructura del futuro y procesamiento avanzado.*
 
 ---
-<img width="1890" height="1064" alt="1000067196" src="https://github.com/user-attachments/assets/b1b46d68-742a-4107-8e33-68756c59653c" />
+<img width="480" height="559" alt="1000067235" src="https://github.com/user-attachments/assets/b8c3c688-2c71-400a-931d-42f19aa6f7c6" />
+
 
 
 
@@ -25,7 +26,8 @@ Imagine la diferencia así:
 
 ## 🏗️ La Realidad Actual: IBM Quantum System Two
 
-<img width="659" height="768" alt="1000067195" src="https://github.com/user-attachments/assets/30f09126-62ef-4672-918c-a02fa7a24f43" />
+<img width="680" height="383" alt="1000067236" src="https://github.com/user-attachments/assets/f4311908-acb4-410c-bb3e-2571f04c42c3" />
+
 
 
 IBM no solo diseña los chips; ya construyó el **IBM Quantum System Two**, la primera arquitectura de sistema cuántico modular y expandible. 
