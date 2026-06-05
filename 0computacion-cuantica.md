@@ -3,8 +3,9 @@
 *Nota de divulgación sobre infraestructura del futuro y procesamiento avanzado.*
 
 ---
-<img src="https://github.com/user-attachments/assets/5e38ed0a-8477-430b-ab27-5f44dfa17a70" width="450" style="max-width:100%; height:auto;">
- />
+<img width="1890" height="1064" alt="1000067196" src="https://github.com/user-attachments/assets/b1b46d68-742a-4107-8e33-68756c59653c" />
+
+
 
 Muchos vemos la computación cuántica como algo lejano o puramente teórico. Sin embargo, **IBM** ya sacó esta tecnología de los laboratorios de física y la está integrando en centros de datos reales. No vienen a reemplazar a nuestras computadoras actuales, sino a resolver problemas que a un superordenador clásico le tomaría miles de años procesar.
 
@@ -24,7 +25,8 @@ Imagine la diferencia así:
 
 ## 🏗️ La Realidad Actual: IBM Quantum System Two
 
-<img width="450" height="620" alt="1000067171" src="https://github.com/user-attachments/assets/09e81192-92c9-447b-8eb7-97b220427ab7" />
+<img width="659" height="768" alt="1000067195" src="https://github.com/user-attachments/assets/30f09126-62ef-4672-918c-a02fa7a24f43" />
+
 
 IBM no solo diseña los chips; ya construyó el **IBM Quantum System Two**, la primera arquitectura de sistema cuántico modular y expandible. 
 
