@@ -11,7 +11,7 @@ Aquí puedes leer mis notas y análisis más recientes sobre la tecnología que 
 * [🔥 Nueva NVIDIA RTX Spark: El Superchip Local](https://jorge7k-code.github.io/JT-ech//rtx-spark)  
     *¿Qué tiene por dentro el debut de NVIDIA en procesadores y por qué promete revolucionar las laptops en el ecosistema Windows?*
 
-* [🌀 Computación Cuántica: ¿Qué está haciendo IBM?](https://jorge7k-code.github.io/JT-tech/0computacion-cuantica.md)  
+* [🌀 Computación Cuántica: ¿Qué está haciendo IBM?](https://jorge7k-code.github.io/JT-ech/0computacion-cuantica.md)  
     *Analizamos cómo IBM está bajando esta tecnología de los laboratorios al entorno empresarial y de TI.*
 
 ---
