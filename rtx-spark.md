@@ -1,6 +1,7 @@
 **NVIDIA RTX Spark** es un nuevo "superchip" (un *System on a Chip* o SoC) presentado por NVIDIA en colaboración con Microsoft y MediaTek durante el evento Computex.
 
-<img width="1803" height="1017" alt="1000067189" src="https://github.com/user-attachments/assets/4118d84a-5b54-47ce-ad6e-fe9109191c72" />
+<img width="680" height="384" alt="1000067234" src="https://github.com/user-attachments/assets/9510e788-c1e0-43d8-bd74-164d773755de" />
+
 
 Básicamente, marca el debut directo de NVIDIA en el mercado de procesadores para computadoras personales y laptops, buscando competir cara a cara con Intel, AMD, Qualcomm y Apple. Su objetivo principal es meter la potencia de procesamiento de un centro de datos de Inteligencia Artificial y gráficos de gama alta directamente en tu mochila, eliminando la dependencia absoluta de la nube.
 ### ¿Cómo funciona y qué tiene por dentro?
