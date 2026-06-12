@@ -36,3 +36,10 @@ Ante la inquietud sobre el desplazamiento tecnológico, la visión planteada por
 Como profesionales de tecnología, este movimiento nos deja una lectura importante: **el mercado de la IA está madurando hacia la especialización vertical.**
 Al evitar la competencia directa en un mercado de consumo saturado y *commoditizado*, Prometheus busca posicionarse como la **infraestructura inteligente** de la industria pesada, la manufactura avanzada y los semiconductores.
 Es un enfoque maestro de arquitectura de negocio tecnológica que abre un nuevo vector: la transición de los Modelos de Lenguaje (LLMs) hacia los **Modelos de Física del Mundo Real**. Sin duda, una tendencia clave a monitorear en nuestros comités y planeaciones de TI.
+
+---
+
+### 🌐 Fuentes y Referencias para profundizar:
+* [The Wall Street Journal - Tech & Business](https://www.wsj.com) (Reportes financieros sobre rondas de inversión en 'stealth mode' y valoraciones de mercado).
+* [Bloomberg Technology](https://www.bloomberg.com/technology) (Análisis sobre la participación ejecutiva de Jeff Bezos y fondos de inversión institucionales).
+* [MIT Technology Review - Artificial Intelligence](https://www.technologyreview.com) (Análisis técnico de la transición de LLMs hacia modelos fundacionales de física aplicada).
