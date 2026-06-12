@@ -14,7 +14,7 @@ Aquí puedes leer mis notas y análisis más recientes sobre la tecnología que 
 * [🌀 Computación Cuántica: ¿Qué está haciendo IBM?](https://jorge7k-code.github.io/JT-ech//0computacion-cuantica)  
     *Analizamos cómo IBM está bajando esta tecnología de los laboratorios al entorno empresarial y de TI.*
 
-  * [🚀 Proyecto Prometheus de Jeff Bezos.](https://jorge7k-code.github.io/JT-ech//prometheus)
+* [🚀 Proyecto Prometheus de Jeff Bezos.](https://jorge7k-code.github.io/JT-ech//prometheus)
     *Prometheus (o Proyecto Prometeo) es la nueva y ambiciosa startup de Inteligencia Artificial fundada por Jeff Bezos junto a Vik Bajaj (un exejecutivo de Google X y Verily.*
      
 
