@@ -17,7 +17,7 @@ La propuesta de valor técnica es agresiva: permitir que equipos extremadamente 
 * **Aceleración radical:** Reducción de los tiempos de desarrollo hasta por **diez veces** en microchips de próxima generación, motores de aviación, infraestructura urbana o sistemas aeroespaciales.
 * **Eficiencia operativa:** Lo que hoy requiere una década de desarrollo y cientos de especialistas, la plataforma promete viabilizarlo en **un año** con un grupo compacto.
 ---
-## 📊 Radiografía del Proyecto
+### 📊 Radiografía del Proyecto
 Para entender la magnitud de Prometheus, analicemos sus componentes clave:
 
 | Elemento | Detalle Técnico y Comercial |
