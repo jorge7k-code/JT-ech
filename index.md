@@ -1,3 +1,5 @@
+<img width="792" height="336" alt="LogoJT-ech_792x336" src="https://github.com/user-attachments/assets/d8eb6a6a-ad26-4d53-8c13-6646b9a3d81e" />
+
 # JT-tech | Tecnología y Divulgación
 
 
