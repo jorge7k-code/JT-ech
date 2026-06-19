@@ -19,5 +19,7 @@ Aquí puedes leer mis notas y análisis más recientes sobre la tecnología que 
      
 * [🛡️ Hackeo al Mundial y el "Pueblo Réplica" del FBI: La ciberseguridad se vuelve física](ciber_WC_FBI)
     *Brecha y Simulación Técnica:** Un análisis sobre la delgada línea entre el software y el impacto en infraestructura del mundo real.
+
+  
 ---
 💬 *¡Siéntete libre de comentar en el grupo de WhatsApp qué te parecieron las lecturas!*
