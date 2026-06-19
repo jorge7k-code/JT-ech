@@ -1,6 +1,6 @@
 # JT-tech | Tecnología y Divulgación
 
-<img width="3168" height="1344" alt="Gemini_Generated_Image_4umtt24umtt24umt" src="https://github.com/user-attachments/assets/5aeb3e44-225d-4efb-9964-05bd15f1bf72" />
+
 
 
 > *Explorando las fronteras de la innovación, la inteligencia artificial y el desarrollo tecnológico.*
