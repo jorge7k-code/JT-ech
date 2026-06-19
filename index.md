@@ -18,7 +18,7 @@ Aquí puedes leer mis notas y análisis más recientes sobre la tecnología que 
     *Prometheus (o Proyecto Prometeo) es la nueva y ambiciosa startup de Inteligencia Artificial fundada por Jeff Bezos junto a Vik Bajaj (un exejecutivo de Google X y Verily.*
      
 * [🛡️ Hackeo al Mundial y el "Pueblo Réplica" del FBI: La ciberseguridad se vuelve física](ciber_WC_FBI)
-    *Brecha y Simulación Técnica:** Un análisis sobre la delgada línea entre el software y el impacto en infraestructura del mundo real.
+    *Brecha y Simulación Técnica:** Un análisis sobre la delgada línea entre el software y el impacto en infraestructura del mundo real.*
 
   
 ---
