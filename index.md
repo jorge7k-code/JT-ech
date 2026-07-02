@@ -27,6 +27,8 @@ Aquí puedes leer mis notas y análisis más recientes sobre la tecnología que 
 * [🛡️ Hackeo al Mundial y el "Pueblo Réplica" del FBI: La ciberseguridad se vuelve física](ciber_WC_FBI)
     *Brecha y Simulación Técnica:** Un análisis sobre la delgada línea entre el software y el impacto en infraestructura del mundo real.*
 
-  
+* [🤖 Vigilancia Humana de la IA: Cuando el supervisor también puede fallar](Vigilancia_AI)
+    *Human-in-the-loop y sesgo de automatización:** Un análisis sobre por qué la supervisión humana no siempre corrige los errores de la inteligencia artificial.*
+
 ---
 💬 *¡Siéntete libre de comentar en el grupo de WhatsApp qué te parecieron las lecturas!*
